@@ -1,13 +1,14 @@
 # SHARMISTHA DUTTA
 
 I am software Engineer passionate about Full stack Web development and data analytics. Welcome to my page!
-I have 4+ years of working 
+I have 4+ years of working as a Full Stack Engineer in Micron Technology and Tata Consultancy Services India. I have 1.5+ years of internship 
+experience at Intel, Micron and HP.
 
 	 	 	                                              
 #### SOFTWARE SKILLS
 
 * Languages 	:  C#, Python, Perl, Java, C, C++, Skill
-* Database 	:     SQL Server, PostgreSQL, MySQL, MongoDB
+* Database 	:  SQL Server, PostgreSQL, MySQL, MongoDB
 * Web 	 	:  Bootstrap, React, ES6, JQuery, HTML5, CSS3
 * Data Analytics:  Power BI, Pandas, Numpy
 
